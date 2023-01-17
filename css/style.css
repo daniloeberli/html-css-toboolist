@@ -16,7 +16,9 @@ header{
 }
 
 .add{
-    margin-left: 50px;
+    padding-left: 50px;
+    border-bottom: 2px solid lightgray;
+    padding-bottom: 10px;
 }
 .container{
     background-color: white;
