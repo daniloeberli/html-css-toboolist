@@ -10,6 +10,11 @@ header{
     background-color: white;
 }
 
+.margin{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 .add{
     margin-left: 50px;
 }
