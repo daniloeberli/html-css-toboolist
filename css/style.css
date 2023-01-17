@@ -22,6 +22,7 @@ header{
     background-color: white;
     margin: auto;
     width: 900px;
+    padding-top: 25px;
 
 }
 
@@ -72,6 +73,7 @@ section{
     background-color: #45ABEA;
     padding: 5px;
     border-radius: 25px;
+    color: white;
 }
 
 .q1{
@@ -79,6 +81,7 @@ section{
     background-color: #9C72E4;
     padding: 5px;
     border-radius: 25px;
+    color: white;
 }
 
 .recruit{
@@ -86,6 +89,7 @@ section{
     background-color: #65C1AA;
     padding: 5px;
     border-radius: 25px;
+    color: white;
 }
 
 .mobile{
@@ -93,6 +97,7 @@ section{
     background-color: #F29E33;
     padding: 5px;
     border-radius: 25px;
+    color: white;
 }
 
 .website{
@@ -100,6 +105,7 @@ section{
     background-color: #D863A1;
     padding: 5px;
     border-radius: 25px;
+    color: white;
 }
 
 .sale{
@@ -107,4 +113,5 @@ section{
     background-color: #B0C926;
     padding: 5px;
     border-radius: 25px;
+    color: white;
 }
