@@ -1,0 +1,105 @@
+body{
+    background-color: #F6F8F9;
+}
+
+main{
+    margin-top: 40px;
+}
+
+header{
+    background-color: white;
+}
+
+.add{
+    margin-left: 50px;
+}
+.container{
+    background-color: white;
+    margin: auto;
+    width: 900px;
+
+}
+
+.logo{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#name{
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 45px;
+}
+
+#add-task{
+    background-color: #47ADF1;
+    border-radius: 5px;
+}
+
+#add-section{
+    background-color: #C8CED3;
+    border-radius: 5px;
+}
+
+
+section{
+    padding-left: 50px;
+}
+
+.circular{
+    display: inline-block;
+    border: 2px solid green;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+}
+
+.circular-red{
+    border: 2px solid red;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.editorial{
+    display: inline-block;
+    background-color: #45ABEA;
+    padding: 5px;
+    border-radius: 25px;
+}
+
+.q1{
+    display: inline-block;
+    background-color: #9C72E4;
+    padding: 5px;
+    border-radius: 25px;
+}
+
+.recruit{
+    display: inline-block;
+    background-color: #65C1AA;
+    padding: 5px;
+    border-radius: 25px;
+}
+
+.mobile{
+    display: inline-block;
+    background-color: #F29E33;
+    padding: 5px;
+    border-radius: 25px;
+}
+
+.website{
+    display: inline-block;
+    background-color: #D863A1;
+    padding: 5px;
+    border-radius: 25px;
+}
+
+.sale{
+    display: inline-block;
+    background-color: #B0C926;
+    padding: 5px;
+    border-radius: 25px;
+}
