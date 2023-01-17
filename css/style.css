@@ -77,6 +77,7 @@ section{
     padding: 5px;
     border-radius: 25px;
     color: white;
+    font-size: small;
 }
 
 .q1{
@@ -85,6 +86,7 @@ section{
     padding: 5px;
     border-radius: 25px;
     color: white;
+    font-size: small;
 }
 
 .recruit{
@@ -93,6 +95,7 @@ section{
     padding: 5px;
     border-radius: 25px;
     color: white;
+    font-size: small;
 }
 
 .mobile{
@@ -101,6 +104,7 @@ section{
     padding: 5px;
     border-radius: 25px;
     color: white;
+    font-size: small;
 }
 
 .website{
@@ -109,6 +113,7 @@ section{
     padding: 5px;
     border-radius: 25px;
     color: white;
+    font-size: small;
 }
 
 .sale{
@@ -117,4 +122,5 @@ section{
     padding: 5px;
     border-radius: 25px;
     color: white;
+    font-size: small;
 }
